@@ -70,6 +70,15 @@ See the full requirements and user stories [here](#) *(upload or link if hosted 
 
 ---
 
+## 📂 Project Structure
+
+- Requirement Document  
+- Test Plan  
+- Test-Case Development  
+- Test Environment  
+- Test Strategy  
+---
+
 ## 💡 Learning Outcomes
 - Hands-on experience with test case creation, execution, and reporting
 - Real-world application of functional and usability testing
